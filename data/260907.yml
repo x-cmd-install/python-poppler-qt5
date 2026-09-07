@@ -5,7 +5,7 @@ about:
   head: 3675f2b
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:43:56Z
+  collectedAt: 2026-09-07T19:38:36Z
 timeline:
   created: 2015-02-21
   lastCommit: 2023-10-19
@@ -80,7 +80,7 @@ total:
   commit: 70
 ---
 path: /home/runner/.x-repo/github.com/frescobaldi/python-poppler-qt5
-collectedAt: 2026-09-07T04:43:57Z
+collectedAt: 2026-09-07T19:38:36Z
 loc:
   Yaml:
     code: 2287
@@ -207,7 +207,7 @@ checks:
       - 'Warn: 0 commits out of 11 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:43:59+00:00
+  collectedAt: 2026-09-07T19:38:37+00:00
   platform:
     darwin/arm64:
       name:  null
