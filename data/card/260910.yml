@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:00:04Z
+  collectedAt: 2026-09-10T16:37:01Z
 timeline:
   created: 2015-02-21
   lastCommit: 2023-10-19
@@ -84,7 +84,7 @@ total:
   commit: 70
 ---
 path: /home/runner/.x-repo/github.com/frescobaldi/python-poppler-qt5
-collectedAt: 2026-09-10T05:00:05Z
+collectedAt: 2026-09-10T16:37:04Z
 loc:
   Yaml:
     code: 2287
